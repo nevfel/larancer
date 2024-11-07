@@ -181,7 +181,7 @@ return [
          */
 
         Intervention\Image\ImageServiceProvider::class,
-        Collective\Html\HtmlServiceProvider::class,
+        Spatie\Html\HtmlServiceProvider::class,
 
         /*
          * Application Service Providers...
